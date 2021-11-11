@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Mehmet Tuzcu
+# Mehmet Tuzcu
 
 #### Data Scientist
- I discovered the power of data and the pleasure of working on it. I have been studying machine learning and data science for approximately 1 year. 
+ I'm Mehmet, I am from Istanbul. I discovered the power of data and the pleasure of working on it. I have been studying machine learning and data science for approximately 1 year. 
 
 **KEEP PEDALLİNG**
 
@@ -12,8 +12,9 @@
 - https://medium.com/@mehmettuzcu
 - https://www.kaggle.com/mehmettuzcu
 
-Skills:  💻 PYTHON / ML / Data Modeling    
+## Skills and Experience
 
+💻 PYTHON / ML / Data Modeling    
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mehmettuzcu)  
 
