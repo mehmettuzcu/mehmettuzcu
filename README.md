@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Mehmet Tuzcu
+
 #### Data Scientist
  I discovered the power of data and the pleasure of working on it. I have been studying machine learning and data science for approximately 1 year. 
 
@@ -12,8 +13,6 @@
 - https://www.kaggle.com/mehmettuzcu
 
 Skills:  💻 PYTHON / ML / Data Modeling    
-
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mehmettuzcu)  
