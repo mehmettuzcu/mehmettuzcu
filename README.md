@@ -1,7 +1,7 @@
 # Mehmet Tuzcu
 
 #### Data Scientist
- I'm Mehmet, I am from Istanbul. I discovered the power of data and the pleasure of working on it. I have been studying machine learning and data science for approximately 1 year. 
+ I'm Mehmet from Istanbul. I discovered the power of data and the pleasure of working on it. I have been studying machine learning and data science for approximately 1 year. 
 
 **KEEP PEDALLİNG**
 
